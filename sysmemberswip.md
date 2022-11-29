@@ -23,3 +23,27 @@ Role{s} >
 Source {if any} >
 Pronouns >
 Symbol/Initials >
+
+💛 - Grey
+Role{s} >
+Source {if any} >
+Pronouns >
+Symbol/Initials >
+
+⛔ - Silver 
+Role{s} >
+Source {if any} >
+Pronouns >
+Symbol/Initials >
+
+💙 - Mikey
+Role{s} >
+Source {if any} >
+Pronouns >
+Symbol/Initials >
+
+🐇 - Cesar
+Role{s} >
+Source {if any} >
+Pronouns >
+Symbol/Initials >
