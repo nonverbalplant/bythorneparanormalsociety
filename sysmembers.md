@@ -42,8 +42,14 @@ Source {if any} > Twitter Ghost Mike Au
 Pronouns > He/Him , They/Them , Ghost/Ghostself
 Symbol/Initials > ` at the beginning of a sentence
 
-🐇 - Cesar
+🧸 - Cesar
 Role{s} > Introject , Caretaker , Protector , Age-slider
 Source {if any} > Plushdela Au
 Pronouns > He/Him , Plush/Plushself
 Symbol/Initials > ^ at the beginning of a sentence
+
+🐇 - Mark
+Role{s} > Introject , Caretaker
+Source {if any} > Plushdela Au
+Pronouns > She/Her , Plush/Plushself
+Symbol/Initials > # at the start of a sentence
