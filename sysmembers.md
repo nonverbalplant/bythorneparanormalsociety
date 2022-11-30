@@ -48,8 +48,14 @@ Source {if any} > Plushdela Au
 Pronouns > He/Him , Plush/Plushself
 Symbol/Initials > ^ at the beginning of a sentence
 
-🐇 - Mark
+🐇 - Marcador
 Role{s} > Introject , Caretaker
 Source {if any} > Plushdela Au
 Pronouns > She/Her , Plush/Plushself
 Symbol/Initials > # at the start of a sentence
+
+📓 - Mark
+Role{s} > Introject
+Source {if any} > The Mandela Catalogue
+Pronouns > He/Him
+Symbol/Initials > ~ at the beginning of a sentence 
