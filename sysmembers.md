@@ -4,58 +4,70 @@
 Role{s} > Host , Introject
 Source {if any} > The Mandela Catalogue
 Pronouns > He/Him , They/Them
-Symbol/Initials > - At the start of a sentence , z = s
+Sign-off > - Jonah
 
 🌹 - Steven/S!3v3n
 Role{s} > Co-Host , Introject , Protector
 Source {if any} > Strangled red
 Pronouns > He/Him , It/Its
-Symbol/Initials > ; at the start of a sentence
+Sign-off > - Steven
 
 💀 - Gold
 Role{s} > Introject
 Source {if any} > Lost Silver
 Pronouns > They/Them , It/Its
-Symbol/Initials > >> At the beginning of a sentence , Words being close together {Typing with no spaces}
+Sign-off > - Gold
 
 ❄ - Blake
 Role{s} > Introject
 Source {if any} > Snow on Mt Silver
 Pronouns > He/Him
-Symbol/Initials > * at the beginning of a sentence
+Sign-off > - Blake
 
 💛 - Grey
 Role{s} > Introject
 Source {if any} > Hypno's Lullaby Mod
 Pronouns > He/Him
-Symbol/Initials > ;; at the biginning of a sentence
+Sign-off > - Grey
 
 ⛔ - Silver 
 Role{s} > Introject , Trauma holder
 Source {if any} > Lost Silver , Hypno's Lullaby Mod
 Pronouns > It/Its , They/Them
-Symbol/Initials > } at  the beginning of a sentence
+Sign-off > - Silver
 
 💙 - Mikey
 Role{s} > Introject ,  Little
 Source {if any} > Twitter Ghost Mike Au
 Pronouns > He/Him , They/Them , Ghost/Ghostself
-Symbol/Initials > ` at the beginning of a sentence
+Sign-off > - Mikey
 
 🧸 - Cesar
 Role{s} > Introject , Caretaker , Protector , Age-slider
 Source {if any} > Plushdela Au
 Pronouns > He/Him , Plush/Plushself
-Symbol/Initials > ^ at the beginning of a sentence
+Sign-off > - 🧸
 
 🐇 - Marcador
 Role{s} > Introject , Caretaker
 Source {if any} > Plushdela Au
 Pronouns > She/Her , Plush/Plushself
-Symbol/Initials > # at the start of a sentence
+Sign-off > - 🐇
 
-📓 - Mark
+📓 - Mark Heathcliff
 Role{s} > Introject
 Source {if any} > The Mandela Catalogue
 Pronouns > He/Him
-Symbol/Initials > ~ at the beginning of a sentence 
+Sign-off > - Mark
+
+📞 - Cesar Torres
+Role{s} > Introject
+Source {if any} > The Mandela Catalogue
+Pronouns > He/Him , It/Its
+Sign-off > - Cesar
+
+✝️ - Alter
+Role{s} > Introject , Protector
+Source {if any} > The Mandela Catalogue Alternate Au
+Pronouns > It/Its , He/Him
+Sign-off > - Alter
