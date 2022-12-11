@@ -7,7 +7,7 @@ Pronouns > He/Him , They/Them
 Sign-off > - Jonah
 
 🌹 - Steven/S!3v3n
-Role{s} > Co-Host , Introject , Protector
+Role{s} > Introject , Protector
 Source {if any} > Strangled red
 Pronouns > He/Him , It/Its
 Sign-off > - Steven
@@ -61,7 +61,7 @@ Pronouns > He/Him
 Sign-off > - Mark
 
 📞 - Cesar Torres
-Role{s} > Introject
+Role{s} > Co-Host , Introject
 Source {if any} > The Mandela Catalogue
 Pronouns > He/Him , It/Its
 Sign-off > - Cesar
@@ -70,4 +70,16 @@ Sign-off > - Cesar
 Role{s} > Introject , Protector
 Source {if any} > The Mandela Catalogue Alternate Au
 Pronouns > It/Its , He/Him
-Sign-off > - Alter
+Sign-off > - Alt
+
+🐍 - Adam Murray
+Role{s} > Introject
+Source {if any} > The Mandela Catalogue
+Pronouns > He/Him , They/Them
+Sign-off > - Adam
+
+🎀 - Salad
+Role{s} > Introject , Little
+Source {if any} > Funkdela Catalogue 
+Pronouns > He/Him
+Sign-off > - 🎀
