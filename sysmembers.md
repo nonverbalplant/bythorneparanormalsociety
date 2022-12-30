@@ -83,3 +83,9 @@ Role{s} > Introject , Little
 Source {if any} > Funkdela Catalogue 
 Pronouns > He/Him
 Sign-off > - 🎀
+
+🖌 - Mark/Varie
+Role{s} > Introject , Memory Holder
+Source {if any} > Tmc Variegated Au
+Pronouns > He/Him , Blue/Blueself
+Sign-off > - Varie
