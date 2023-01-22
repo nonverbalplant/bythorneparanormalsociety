@@ -8,6 +8,10 @@
 >> Doubles > Iffy .
 >> Ships > No .
 
+- Steven/S!3v3n > Strangled Red .
+>> Doubles > Iffy.
+>> Ships > No .
+
 - Damien Arroyo > Madeleine Phantsms .
 >> Doubles > Fine
 >> Ships > Iffy
