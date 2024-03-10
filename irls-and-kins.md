@@ -1,4 +1,4 @@
--- Main IRLS ;
+-- Main Fictkins (Highest to Lowest) ;
 
 - Jonah Marshall > The Mandela Catalogue .
 >> Doubles > Iffy .
@@ -20,10 +20,6 @@
 >> Doubles > Fine .
 >> Ships > Iffy/
 
-
--- Kins {Highest to Lowest} ;
-
-
 - Adam Murray > The Mandela Catalogue .
 >> Doubles > Fine .
 >> Ships > No .
@@ -32,7 +28,7 @@
 >> Doubles > Fine .
 >> Ships > No .
 
-- Cassidy/Mark Heathcliff > Plushdela Au .
+- Cassidy/Mark Heathcliff > Plushdela Au/Plush Star Fever .
 >> Doubles > Fine .
 >> Ships > No .
 
@@ -43,3 +39,7 @@
 - Blue Addison > Deltarune .
 >> Doubles > Fine .
 >> Ships > No .
+>>
+- Susan Woodings > TWF
+>> Doubles > Fine .
+>> Ships No .
